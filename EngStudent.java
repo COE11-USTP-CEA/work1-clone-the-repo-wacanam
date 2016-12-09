@@ -3,5 +3,6 @@ class EngStudent{
 		String Stud_name;
 		Stud_name = "Wave Cantery Ambray";
 		System.out.println("Student Name : " + Stud_name);
+		
 	}
 }
